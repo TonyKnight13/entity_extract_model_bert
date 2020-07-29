@@ -1,0 +1,16 @@
+标签系统
+种类 category
+开头 B-CAT
+中间 I-CAT
+
+组分 composition
+开头 B-COM
+中间 I-COM
+
+特性 feature
+开头 B-FEA
+中间 I-FEA
+
+工艺 crafts
+开头 B-CRA
+中间 I-CRA
